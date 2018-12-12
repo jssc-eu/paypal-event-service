@@ -1,0 +1,29 @@
+{
+  "name": "paypal-csv-separator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSConfBp/paypal-csv-separator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "10.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/JSConfBp/paypal-csv-separator/issues"
+  },
+  "homepage": "https://github.com/JSConfBp/paypal-csv-separator#readme",
+  "dependencies": {
+    "boom": "^7.2.2",
+    "csv": "^4.0.0",
+    "hapi": "^17.7.0"
+  }
+}

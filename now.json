@@ -1,0 +1,4 @@
+{
+	"name": "paypal-event-service",
+	"alias": ["paypal-event-service.now.sh"]
+}
