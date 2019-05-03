@@ -23,7 +23,7 @@
   "homepage": "https://github.com/JSConfBp/paypal-csv-separator#readme",
   "dependencies": {
     "boom": "^7.2.2",
-    "csv": "^4.0.0",
-    "hapi": "^17.7.0"
+    "csv": "^5.1.1",
+    "hapi": "^18.1.0"
   }
 }
